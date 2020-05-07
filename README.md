@@ -10,3 +10,9 @@ These (very early) sketched wireframes provided the basis for the first prototyp
 
 <!-- Add link to larger version of image -->
 <img src="images/te_sketches.png" width="480">
+
+## Prototype Planning
+
+The workflow map below showed me how much complexity there is in what at first seemed like a "simple" app. The decision points are supposed to be diamonds, but that got awkward with angling my template, so I got fancy with a different symbol.
+
+<img src="images/workflow.jpg" height="320">
