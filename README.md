@@ -52,6 +52,9 @@ Using Marvel I created the first clickable  prototype. I was was more complex th
 
 My first complete prototype was... rough. But I learned a lot along the way. Although I moved on to InVision, the Marvel web app gave me a good introduction to prototyping. By downloading the Terminal Eats app to my phone I was able to see where there were problems with the workflow, many of which I addressed in later version. Holding the app in my hand did one other thing--it connected me with the product of my work, and with the responsibilty I have to do this right because... someday people might actually *use* this thing, just as I was in that moment.
 
+*Caveat*
+I don't actually recommend this clickthrough prototype. I've come a long way and, although it shows my very humble beginnings, it can very very frustrating. The only working restaurant is Quizzy's, and only the Italian and Meatball subs...
+
 <div "style">
 <a href="https://marvelapp.com/22c4fieg/screen/68000084" target="_blank">First Prototype
 
