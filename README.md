@@ -1,6 +1,6 @@
 # UX Project - Terminal Eats
 
-### Starving, in line at security, and cutting it close to departure? Terminal Eats will help you find your favorite restaurant in your terminal, show you estimated wait times, and even let you place an order so it is waiting for you. Now you can board your plane with that delicious meatball sub just waiting to be eaten. Your tummy--and your fellow passengers--will thank you!
+### Starving, in line at security, and cutting it close to departure? Terminal Eats will help you find your favorite restaurant in your terminal, show you estimated wait times, and even let you place an order so it is waiting for you. Now you can board your plane with that delicious meatball sub just waiting to be eaten. Your tummy--and your fellow passengers--will thank you!!!
 
 <!--
 ## Contents
@@ -9,7 +9,8 @@
 * #### [ Workflow Spec ](#wfs)
 * #### [ Wireframes (Round 1)](#wf1)
 * #### [ Mockup (Round 1) ](#mu1)
-* #### [ Prototype Planning (Round 1)](#pt1)
+* #### [ Prototype Planning (Round 1)](#ptp1)
+* * #### [ Prototype (Round 1)](#pt1)
 * </-->
 
 <a name="tldr"></a>
@@ -38,9 +39,14 @@ The mockup, with few exceptions, is simply black and white. I learned this strat
 
 <img src="images/te-mockup-canva.png" height="280">
 
-<a name="pt1"></a>
+<a name="ptp1"></a>
 ## Prototype Planning (Round 1)
 
 Using Marvel I created the first clickable  prototype. I was was more complex than expected. I mapped out the hotspots for the app.
 
 <img src="images/canva-prototype-map.jpg" height="280">
+
+<a name="pt1"></a>
+## Prototype (Round 1)
+
+My first complete prototype was... rough. But I learned a lot along the way. Although I moved on to InVision, the Marvel web app gave me a good introduction to prototyping. By downloading the Terminal Eats app to my phone I was able to see where there were problems with the workflow, many of which I addressed in later version. Holding the app in my hand did one other thing--it connected me with the product of my work, and with the responsibilty I have to do this right because... someday people might actually *use* this thing, just as I was in that moment.
