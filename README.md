@@ -64,6 +64,6 @@ I don't actually recommend this clickthrough prototype. I've come a long way and
 
 <a name="mu2"></a>
 ## Mockup using Sketch (Round 2)
-I took an amazing course to learn Sketch. During the tutorial all of the files were provided, but I could not wait to apply what I learned ini Sketch to my Terminal Eats project. I was left with MANY question (especially about capitalizing properly on symbols). I will add more on that in issues. Very excited with the final product here, and looking forward to bringing it to life in InVision!
+I took an amazing course to learn Sketch. During the tutorial all of the files were provided, but I could not wait to apply what I learned in Sketch to my Terminal Eats project. I was left with MANY questions (especially about capitalizing properly on symbols). I will add more on that in issues. Very excited with the final product here, and looking forward to bringing it to life in InVision!
 
 <img src="images/mockup-round-2.png" width="100%"></a>
