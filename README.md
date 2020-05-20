@@ -12,6 +12,7 @@
 * #### [ Mockup (Round 1) ](#mu1)
 * #### [ Prototype Planning (Round 1)](#ptp1)
 * * #### [ Prototype (Round 1)](#pt1)
+* #### [ Mockup with Sketch (Round 2)] (#mu2)
 * </-->
 <a name="tldr"></a>
 ## tl;dr
@@ -60,3 +61,9 @@ I don't actually recommend this clickthrough prototype. I've come a long way and
 
 <img src="images/te_prototype.png" height="320"></a>
 </div>
+
+<a name="mu2"></a>
+## Mockup using Sketch (Round 2)
+I took an amazing course to learn Sketch. During the tutorial all of the files were provided, but I could not wait to apply what I learned ini Sketch to my Terminal Eats project. I was left with MANY question (especially about capitalizing properly on symbols). I will add more on that in issues. Very excited with the final product here, and looking forward to bringing it to life in InVision!
+
+<img src="images/mockup-round-2.png" width="100%"></a>
