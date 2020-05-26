@@ -75,7 +75,7 @@ This is a love story that ends in despair, but with hope for new life and new op
 
 Hop straight to "Find Food." You are dying for Ahi Tuna from Oh So Sushi, and can check out the map, too!
 <div "style">
-<a href="https://projects.invisionapp.com/prototype/TE-for-Prototype-11-Pro-ckamprq9v008swb01le6t4b86/play/7dc00b6a" target="_blank">
+<a href="https://projects.invisionapp.com/prototype/TE-for-Prototype-11-Pro-ckamprq9v008swb01le6t4b86/play/c568f73c" target="_blank">
 
 <img src="images/term-eats-prototype.png" height="320"></a>
 </div>
