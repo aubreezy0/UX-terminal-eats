@@ -67,3 +67,15 @@ I don't actually recommend this clickthrough prototype. I've come a long way and
 I took an amazing course to learn Sketch. During the tutorial all of the files were provided, but I could not wait to apply what I learned in Sketch to my Terminal Eats project. I was left with MANY questions (especially about capitalizing properly on symbols). I will add more on that in issues. Very excited with the final product here, and looking forward to bringing it to life in InVision!
 
 <img src="images/mockup-round-2.png" width="100%"></a>
+
+<a name="pt2"></a>
+## Final Prototype
+
+This is a love story that ends in despair, but with hope for new life and new opportunities ahead. I couldn't wait to dive into InVision, but I found it kludgy, to say the least. It was important to learn its quirks, but halfway though I saw a demo that made me want to learn XD, which I will do for my next project. Though my list of v3 changes is long, I am proud of this release, and to conclude my first solo UX project, Terminal Eats.
+
+Hop straight to "Find Food." You are dying for Ahi Tuna from Oh So Sushi, and can check out the map, too!
+<div "style">
+<a href="https://projects.invisionapp.com/prototype/TE-for-Prototype-11-Pro-ckamprq9v008swb01le6t4b86/play/7dc00b6a" target="_blank">
+
+<img src="images/term-eats-prototype.png" height="320"></a>
+</div>
