@@ -1,8 +1,13 @@
 # UX Project - Terminal Eats
 
-### Starving, in line at security, and cutting it close to departure? Terminal Eats will help you find your favorite restaurant in your terminal, show you estimated wait times, and even let you place an order so it is waiting for you. Now you can board your plane with that delicious meatball sub just waiting to be eaten. Your tummy--and your fellow passengers--will thank you!!!
+### Starving, in line at security, and cutting it close to departure? Terminal Eats helps you find restaurants in your terminal, check prep times, and place an order for pickup, so you can board your flight hot meatball sub in hand!
 
-*Terminal Eats is an independent project, an opportunity for me to apply lessons from tutorials and an excuse to just try things out!*
+##### <span style="color:green"> Note: Terminal Eats is an independent project, an opportunity for me to apply lessons from tutorials and an excuse to just try things out!</span>
+
+Tools: Invision, Sketch, Atom, Marvel, Canva, Pencil, Paper, and Persistence
+
+Takeaway: Damn, I love this stuff
+
 <!--
 ## Contents
 
@@ -84,7 +89,7 @@ Tools: Invision, Sketch
 
 Takeaways: Managing file structures and naming conventions is essential for working on imported Sketch files in Invision, something I will account for in future project planning.
 
-Other takeaway: Know when to move on. Nothing is ever perfect, never done. My list of improvements is long and I could work on this app forever, but my idea for a CSPAN app (yes, really) is calling to me… and it's time to learn Adobe XD.
+Other takeaway: <span style="color:green">It's time to move on.</span> Nothing is ever perfect, never done. What's important is to recognize when something more important has come along. I really could work on this app forever, but my idea for a CSPAN app (yes, really) is calling to me… and it's time to learn Adobe XD.
 
 
 Hop straight to "Find Food." You are dying for Ahi Tuna from Oh So Sushi... don't forget to checkout the map!
